@@ -16,4 +16,5 @@ public class Arma extends Sprite {
     private int velocidad;
     private int alcance;
     
+    // FALTA EL CONSTRUCTOR MADAFAKA!!!
 }
